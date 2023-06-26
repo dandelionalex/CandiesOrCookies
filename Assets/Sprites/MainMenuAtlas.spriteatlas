@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainMenuAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 49945c96514728a4b9eecc652bc4aaa1, type: 3}
+    - {fileID: 2800000, guid: 8a1e132c502ff6c4b8ccd460dc296679, type: 3}
+    - {fileID: 2800000, guid: f7fe4b7ee9bfb744184a3f960122b42d, type: 3}
+    - {fileID: 2800000, guid: a0a1762d44c20054095aef11ba4b5fa3, type: 3}
+    - {fileID: 2800000, guid: f49998ca00c1fb54ba0702a04ebd6c01, type: 3}
+    - {fileID: 2800000, guid: 00fcb09aa828a0f46a4fa6801d1ce7c8, type: 3}
+    - {fileID: 2800000, guid: 0ecdf6abf797147409dc2728b37cda3b, type: 3}
+    - {fileID: 2800000, guid: be6fdb0aa9c2141259404e6050cc7d85, type: 3}
+    - {fileID: 2800000, guid: 516d05ef50b791544add291a3aa1eb45, type: 3}
+    - {fileID: 2800000, guid: 374edf4224c10084080a77dec5417bbe, type: 3}
+    - {fileID: 2800000, guid: 9657325aa7acbe2468f4eb25938b47a7, type: 3}
+    totalSpriteSurfaceArea: 758879
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 374edf4224c10084080a77dec5417bbe, type: 3}
+  - {fileID: 21300000, guid: 49945c96514728a4b9eecc652bc4aaa1, type: 3}
+  - {fileID: 21300000, guid: be6fdb0aa9c2141259404e6050cc7d85, type: 3}
+  - {fileID: 21300000, guid: 9657325aa7acbe2468f4eb25938b47a7, type: 3}
+  - {fileID: 21300000, guid: 00fcb09aa828a0f46a4fa6801d1ce7c8, type: 3}
+  - {fileID: 21300000, guid: f49998ca00c1fb54ba0702a04ebd6c01, type: 3}
+  - {fileID: 21300000, guid: 0ecdf6abf797147409dc2728b37cda3b, type: 3}
+  - {fileID: 21300000, guid: 8a1e132c502ff6c4b8ccd460dc296679, type: 3}
+  - {fileID: 21300000, guid: a0a1762d44c20054095aef11ba4b5fa3, type: 3}
+  - {fileID: 21300000, guid: f7fe4b7ee9bfb744184a3f960122b42d, type: 3}
+  - {fileID: 21300000, guid: 516d05ef50b791544add291a3aa1eb45, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tutorial_Rect
+  - PopUpCoverRect
+  - LevelProgress_Kubok
+  - Tut_Pointer
+  - Progress_Bar_Back
+  - LevelProgress_Back_3
+  - LevelProgress_Fill
+  - PlayButton
+  - CoinsAmount_NoCash
+  - Levels_btn
+  - Unlock_btn_disabled_noCash
+  m_RenderDataMap: {}
+  m_Tag: MainMenuAtlas
+  m_IsVariant: 0

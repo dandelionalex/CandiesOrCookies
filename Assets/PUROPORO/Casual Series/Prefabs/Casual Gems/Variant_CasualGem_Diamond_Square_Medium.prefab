@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8854706905098593697
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6086379798014196499, guid: 7e4a430b2d2514cae933d281bfc7afaa,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -4522647212688241861, guid: 9693c3201d637467282b6139d5f33eb4,
+        type: 3}
+    - target: {fileID: 7194766180030149814, guid: 7e4a430b2d2514cae933d281bfc7afaa,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7194766180030149814, guid: 7e4a430b2d2514cae933d281bfc7afaa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7194766180030149814, guid: 7e4a430b2d2514cae933d281bfc7afaa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7194766180030149814, guid: 7e4a430b2d2514cae933d281bfc7afaa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7535402972243602956, guid: 7e4a430b2d2514cae933d281bfc7afaa,
+        type: 3}
+      propertyPath: m_Name
+      value: Variant_CasualGem_Diamond_Square_Medium
+      objectReference: {fileID: 0}
+    - target: {fileID: 9029592907352204158, guid: 7e4a430b2d2514cae933d281bfc7afaa,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 9001133372302517631, guid: 8c1681ea98a2c446b8f6d95dc98fdc34,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e4a430b2d2514cae933d281bfc7afaa, type: 3}

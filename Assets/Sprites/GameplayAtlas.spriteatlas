@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameplayAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4e6fab6870edca94880a9a6148ad3c8f, type: 3}
+    - {fileID: 2800000, guid: 30c4ea02ea2819c4494f15a621d66a58, type: 3}
+    - {fileID: 2800000, guid: 06b6e432169abb942946f0b93e38d8e1, type: 3}
+    - {fileID: 2800000, guid: 901b2c9a08832ea43bb5d0d9431c8bc0, type: 3}
+    - {fileID: 2800000, guid: 8c40b57b52d82f14b89fd2381b6f4951, type: 3}
+    - {fileID: 2800000, guid: b0d409b956da3b842a05f9ad3f1d8324, type: 3}
+    - {fileID: 2800000, guid: 1db27b2b7ce204d4c803900edcf591f2, type: 3}
+    - {fileID: 2800000, guid: d82ef6c5ab7b45340b061b63405a33b7, type: 3}
+    - {fileID: 2800000, guid: 6ee3da83b27533847b6d22d2322bf7ee, type: 3}
+    - {fileID: 2800000, guid: 1642a92566fc8f74bb7bd1eb3234232c, type: 3}
+    - {fileID: 2800000, guid: 3b00e439b849506479fa5bdde9f4b775, type: 3}
+    - {fileID: 2800000, guid: 9d3c6c401a5455847bb20afc16eb3110, type: 3}
+    totalSpriteSurfaceArea: 1548706
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9d3c6c401a5455847bb20afc16eb3110, type: 3}
+  - {fileID: 21300000, guid: 30c4ea02ea2819c4494f15a621d66a58, type: 3}
+  - {fileID: 21300000, guid: 06b6e432169abb942946f0b93e38d8e1, type: 3}
+  - {fileID: 21300000, guid: 6ee3da83b27533847b6d22d2322bf7ee, type: 3}
+  - {fileID: 21300000, guid: 1642a92566fc8f74bb7bd1eb3234232c, type: 3}
+  - {fileID: 21300000, guid: d82ef6c5ab7b45340b061b63405a33b7, type: 3}
+  - {fileID: 21300000, guid: 4e6fab6870edca94880a9a6148ad3c8f, type: 3}
+  - {fileID: 21300000, guid: 3b00e439b849506479fa5bdde9f4b775, type: 3}
+  - {fileID: 21300000, guid: b0d409b956da3b842a05f9ad3f1d8324, type: 3}
+  - {fileID: 21300000, guid: 901b2c9a08832ea43bb5d0d9431c8bc0, type: 3}
+  - {fileID: 21300000, guid: 1db27b2b7ce204d4c803900edcf591f2, type: 3}
+  - {fileID: 21300000, guid: 8c40b57b52d82f14b89fd2381b6f4951, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ribbon
+  - Clock_Arrow
+  - Clock_Icon
+  - Progress_Bar_Golden
+  - Progress_Bar_Golden_Back
+  - CoinsCollected_ForExport
+  - GeneralButton
+  - Progress_Bar_Golden_Gray
+  - Coin
+  - ClockSector
+  - Coin_disabled
+  - ClockSector_white
+  m_RenderDataMap: {}
+  m_Tag: GameplayAtlas
+  m_IsVariant: 0

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275711640360",
+    "project_id": "pick-master",
+    "storage_bucket": "pick-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275711640360:android:f17bdb333c56c86492061d",
+        "android_client_info": {
+          "package_name": "com.Pimax.PickMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275711640360-fsilkj284gobt5jdh0c1346ii3m1aqf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZBy5plinXyJ5_HE_co9iN9Da8UCp3Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275711640360-fsilkj284gobt5jdh0c1346ii3m1aqf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
